@@ -6,9 +6,9 @@ Built with HTML, CSS, JS
 1.⏰ Live typing delay measurement
 2.📊 Automatic average delay calculation  
 3.🎨 Status Visualizer:
-  🟢Green - fast
-  🟡Yellow - medium
-  🔴Red - slow
+  🟢Green - fast  
+  🟡Yellow - medium  
+  🔴Red - slow  
 4. 🏆 Leaderboard system to compare results  
 
 
