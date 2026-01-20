@@ -1,5 +1,5 @@
 #Typing Delay Tester!
-It is a html-based program which tests user's typing delay. It measures in ms from the moment when text appears on the screen until the first keystroke.  
+It is a html-based program which tests user's typing delay. It measures in ms from the moment when text appears on the screen until the first keystroke.
 Built with HTML, CSS, JS
 
 #Main functions  
