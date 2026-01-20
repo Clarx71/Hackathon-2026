@@ -8,6 +8,7 @@ Built with HTML, CSS, JS
 3. Status Visualizer (Green: Fast, Yellow: average, medium, Red: Slow)
 4. Leaderboard system to compare results
 
+
 #How it works
 1. Press the "start" button
 2. Text appears on the screen
