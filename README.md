@@ -9,7 +9,7 @@ Built with HTML, CSS, JS
 4. Leaderboard system to compare results  
 
 
-#How it works  
+#How it works
 1. Press the "start" button  
 2. Text appears on the screen  
 3. Type as quickly as possible  
