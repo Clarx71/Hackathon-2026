@@ -3,10 +3,13 @@ It is a html-based program which tests user's typing delay. It measures in ms fr
 Built with HTML, CSS, JS
 
 #Main functions  
-1.Live typing delay measurement  
-2. Automatic average delay calculation  
-3. Status Visualizer (Green: Fast, Yellow: average, medium, Red: Slow)  
-4. Leaderboard system to compare results  
+1.⏰ Live typing delay measurement
+2.📊 Automatic average delay calculation  
+3.🎨 Status Visualizer:
+  🟢Green - fast
+  🟡Yellow - medium
+  🔴Red - slow
+4. 🏆 Leaderboard system to compare results  
 
 
 #How it works
