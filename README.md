@@ -5,7 +5,7 @@ Built with HTML, CSS, JS
 #Main functions  
 1.⏰ Live typing delay measurement
 2.📊 Automatic average delay calculation  
-3.🎨 Status Visualizer:
+3.🎨 Status Visualizer:  
   🟢Green - fast  
   🟡Yellow - medium  
   🔴Red - slow  
