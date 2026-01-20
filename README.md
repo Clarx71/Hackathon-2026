@@ -13,17 +13,17 @@ Built with HTML, CSS, JS
 
 
 #How it works
-1. Press the "start" button  
-2. Text appears on the screen  
-3. Type as quickly as possible  
-4. The delay is measured from the time taken to the first keystroke  
-5. Press "enter" to continue  
-6. After 5 times, the program automatically calculates the average delay.  
+1. ⏯️ Press the "start" button  
+2. 📝 Text appears on the screen  
+3. ⚡️ Type as quickly as possible  
+4. ⏲️ The delay is measured from the time taken to the first keystroke  
+5. ⌨️ Press "enter" to continue  
+6. 🔁 After 5 times, the program automatically calculates the average delay.  
 
 #Judging Criteria
-if delay < 150ms = "Fast"  
-if delay < 300ms = "Medium"  
-Else = "Slow"  
+🚀 if delay < 150ms = "Fast"  
+⚡️ if delay < 300ms = "Medium"  
+🐢 Else = "Slow"  
 
 
 
