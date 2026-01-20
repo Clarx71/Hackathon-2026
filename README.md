@@ -20,7 +20,7 @@ Built with HTML, CSS, JS
 5. ⌨️ Press "enter" to continue  
 6. 🔁 After 5 times, the program automatically calculates the average delay.  
 
-#Judging Criteria
+#Judging Criteria  
 🚀 if delay < 150ms = "Fast"  
 ⚡️ if delay < 300ms = "Medium"  
 🐢 Else = "Slow"  
